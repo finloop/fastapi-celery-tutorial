@@ -4,3 +4,7 @@ Jinja2==2.11.3
 pytest==6.2.4
 requests==2.25.1
 uvicorn==0.13.4
+MarkupSafe==2.0.1
+celery==4.4.7
+redis==3.5.3
+flower==0.9.7
